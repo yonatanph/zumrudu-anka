@@ -3,19 +3,9 @@
 
 <details open>
 
+<details open>
 
- #### multiarch-image:1 
-
-
- <pre>📦 docker-local
-└── 📁 multiarch-image
-    └── 📁 1
-        └── <a href=https://ecosysjfrog.jfrog.io/ui/repos/tree/General/docker-local/multiarch-image/1/list.manifest.json?clearFilter=true target="_blank">list.manifest.json</a>
-
-</pre>
- #### linux/amd64/multiarch-image:1 
-
-
+<summary>  linux/amd64/multiarch-image:1 </summary><p></p> 
  <pre>📦 docker-local
 └── 📁 multiarch-image
     └── 📁 sha256:552ccb2628970ef526f13151a0269258589fc8b5701519a9c255c4dd224b9a21
@@ -24,6 +14,7 @@
         └── <a href=https://ecosysjfrog.jfrog.io/ui/repos/tree/General/docker-local/multiarch-image/sha256:552ccb2628970ef526f13151a0269258589fc8b5701519a9c255c4dd224b9a21/sha256__aee9d258e62f0666e3286acca21be37d2e39f69f8dde74454b9f3cd8ef437e4e?clearFilter=true target="_blank">sha256__aee9d258e62f0666e3286acca21be37d2e39f69f8dde74454b9f3cd8ef437e4e</a>
 
 </pre>
+</details>
  #### linux/arm64/multiarch-image:1 
 
 
