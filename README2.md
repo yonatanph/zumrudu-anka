@@ -6,7 +6,7 @@
 #### multiarch-image:1 
 <pre>
 <details open>
-<summary>linux/amd64/multiarch-image:1 </summary>
+<summary><a href=http://www.google.com>linux/amd64/multiarch-image:1</a></summary>
  📦 docker-local
 └── 📁 multiarch-image
     └── 📁 sha256:552ccb2628970ef526f13151a0269258589fc8b5701519a9c255c4dd224b9a21
@@ -16,7 +16,7 @@
 </details>
 
 <details open>
- <summary>linux/arm64/multiarch-image:1</summary> 
+ <summary><a href=http://www.google.com>linux/arm64/multiarch-image:1</a></summary> 
 📦 docker-local
 └── 📁 multiarch-image
     └── 📁 sha256:bee6dc0408dfd20c01e12e644d8bc1d60ff100a8c180d6c7e85d374c13ae4f92
