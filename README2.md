@@ -1,4 +1,6 @@
 <details>
+
+outer pre-text 
 <summary>Click to expand outer</summary>
 
 <details>
@@ -7,5 +9,5 @@
 ## Inner content
 
 </details>
-
+outer post-test
 </details>
