@@ -1,26 +1,7 @@
 # $\textcolor{green}{\textsf{ 🐸 JFrog Job Summary}}$
 
-<a href="https://ecosysjfrog.jfrog.io/ui/packages?projectKey=">📦 Project  packages </a>
-
 
 <details open>
-
-<summary>  📦 Build info published to Artifactory by this workflow </summary><p></p> 
-
- 
-
- ### Published Build Infos  
-
-
-
-|  Build Info |  Time Stamp | 
-|---------|------------| 
-| [Multi build 74](https://ecosysjfrog.jfrog.io/ui/builds/Multi%20build/74/1722943690621/published?buildRepo=artifactory-build-info) | Aug 6, 2024 , 11:28:10 |
-
-
-
-
- ### Modules Published As Part of This Build  
 
 
  #### multiarch-image:1 
