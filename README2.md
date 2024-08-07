@@ -1,8 +1,11 @@
 <details>
-<summary>Click to expand</summary>
+<summary>Click to expand outer</summary>
 
-## This is the expanded content
+<details>
+<summary>Click to expand inner</summary>
 
-You can include **Markdown** here.
+## Inner content
+
+</details>
 
 </details>
